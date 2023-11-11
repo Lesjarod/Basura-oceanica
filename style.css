@@ -1,0 +1,31 @@
+body{
+    background-color: #dce4f7
+
+}
+h1{
+    font-family: 'Delicious Handrawn', cursive;
+    text-align: center;
+    font-size: 450%;
+    background-color: #84b6f4;
+
+}
+h2{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 200%;
+}
+p{
+    font-family: 'Cormorant Garamond', serif;
+    text-align: justify;
+    font-size: 120%;
+}
+
+.Tortuga{
+    width: 100%;
+    border-radius: 1%;
+}
+.foca{
+    width: 40%;
+    float: right;
+    margin-left: 1%;
+    border-radius: 10%;
+}
